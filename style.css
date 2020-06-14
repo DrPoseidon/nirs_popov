@@ -1,0 +1,254 @@
+body{
+    height: 100vh;
+    width: 100vw;
+}
+
+.login_form,.register_form{
+    width: 20vw;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    align-items: center;
+}
+
+.login_input,.pass_input,.signin_btn,.register_input,.signup_btn{
+    margin-bottom: 20px;
+}
+
+.error{
+    border: 3px solid red!important;
+}
+
+.none{
+    display: none!important;
+}
+
+.msg-err{
+    color: red;
+}
+
+.msg-suc{
+    color: green;
+}
+
+.avatar{
+    border-radius: 100%;
+    object-fit: cover;
+    width: 150px;
+    height: 150px;
+    margin-right: 200px;
+}
+
+.gear_btn{
+    width: 20px;
+    height: 20px;
+    outline: none;
+}
+
+.header_div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0;
+    padding-bottom: 20px;
+    border-bottom: 1px solid gray;
+    width: 50%;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%,0);
+}
+
+.in_header_div2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.in_header_div{
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+}
+.in_header_div1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.p_profile{
+    margin: 0 20px 0 0;
+}
+
+.popup_div{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.profile_photos{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+.in_header_div3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.photos_div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    flex-wrap: wrap;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%,0);
+}
+
+.feed_photos{
+    object-fit: cover;
+    width: 100%;
+}
+
+.feed_photos_div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.feed_photo_div{
+    border: 1px solid black;
+    margin: 10px;
+    width: 600px;
+    height: auto;
+}
+
+.in_feed_photo_div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
+    border-bottom: 1px solid black;
+}
+
+.header_div_feed{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    left: 98%;
+    transform: translate(-100%,0);
+    margin-top: 20px;
+}
+
+.avatar_feed{
+    border-radius: 100%;
+    object-fit: cover;
+    width: 50px;
+    height: 50px;
+}
+.pr_ph{
+    margin: 0 10px 20px;
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+
+
+.hover_div{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    background-color: rgba(94,94,94,0.7);
+    opacity:0;
+    transition: linear 0.2s;
+
+}
+
+.pr_ph:hover .hover_div{
+    opacity: 1;
+}
+
+.in_hover_div{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.in_hover_div1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.follow_div,.sub_div,.all_div{
+    width: 300px;
+    border: 1px solid black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: white;
+}
+
+.follow_div_up,.sub_div_up,.all_div_up{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+    padding: 5px;
+}
+
+.follow_div_down,.sub_div_down,.all_div_down{
+    overflow: scroll;
+    overflow-x: hidden;
+    max-height: 500px;
+    padding: 5px;
+}
+
+.in_follow_div_down,.in_sub_div_down,.in_all_div_down{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+
+.under_follow_div,.under_sub_div,.under_all_div{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 1;
+    background-color: rgba(94,94,94,0.7);
+}
+
+.btn-info{
+    position: fixed;
+    top: 20px;
+    left: 20px;
+}

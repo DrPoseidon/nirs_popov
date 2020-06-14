@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a8a5660-f290-4073-8c22-9cd79bce376d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/another_profile.php" beforeDir="false" afterPath="$PROJECT_DIR$/another_profile.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/add_like.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/add_like1.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/add_like1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/add_photo.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/add_photo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/add_sub.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/add_sub.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/connection.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/connection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/not_sub.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/not_sub.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/remove_like.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/remove_like1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/signin.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/signin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/backend/signup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/nirs_c_new.cdb" beforeDir="false" afterPath="$PROJECT_DIR$/db/nirs_c_new.cdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/nirs_c_new.cdm" beforeDir="false" afterPath="$PROJECT_DIR$/db/nirs_c_new.cdm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feed.php" beforeDir="false" afterPath="$PROJECT_DIR$/feed.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profile.php" beforeDir="false" afterPath="$PROJECT_DIR$/profile.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/this_photo.php" beforeDir="false" afterPath="$PROJECT_DIR$/this_photo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/15916200714818c0c74a293602.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/15916205144818c0c74a293602.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/15916205664818c0c74a293602.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/15916205784818c0c74a293602.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/15916207254818c0c74a293602.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/15916207424818c0c74a293602.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/15916207464818c0c74a293602.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/15916207554818c0c74a293602.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/15916207734818c0c74a293602.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/15916207834818c0c74a293602.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591620866IMG_0063.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591620880IMG_0063.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591620930IMG_0063.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591620938IMG_0063.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591622992IMG_3354.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591623010IMG_3354.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591623085IMG_3353.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591623091IMG_3353.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591623102IMG_3353.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591623131IMG_3366.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591623200IMG_3354.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591623252IMG_3354.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591623313IMG_3354.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591623382IMG_3353.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/15916387322019-09-18_12_52_48_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/15916463602019-09-18_12_52_48_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591646388aZuluSvDD6Y.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/15916467842019-09-18_12_52_48_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591646866IMG_0541.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591646872IMG_0541.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591647559123.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591692881IMG_0541.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591692941aZuluSvDD6Y — копия.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591696837IMG_0063.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591696854IMG_0283.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591696987IMG_0283.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591697023IMG_0283.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591697120IMG_0283.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591697223IMG_0283.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591697290IMG_0283.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591697330IMG_0283.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591697594IMG_0283.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591697604IMG_0916.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591698097IMG_3354.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591698166IMG_0192.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591698170IMG_0063.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591698175IMG_0192.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591698180IMG_0916.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591698193IMG_0294.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591698212IMG_0063.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591698215IMG_0007.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591711695IMG_0192.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591711711IMG_3199.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591711730IMG_0063.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/15917190802019-09-18_12_52_48_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591719114IMG_0063.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591719129IMG_0283.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591719242IMG_0007.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591719253IMG_0007.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591719300IMG_0007.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591719426IMG_0063.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591719551IMG_0063.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591719574IMG_0283.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591719588IMG_0192.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591721657IMG_0916.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591787617IMG_3199.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/15917886712019-09-18_12_52_48_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591788683aZuluSvDD6Y.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591788691IMG_0192.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591788697IMG_0916.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591789739IMG_0063.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1591789818IMG_0063.JPG" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="nirs_db_new@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="nirs_db_new@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="nirs_db_new@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="nirs_db_new: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1d2EOAVV9gIkXmrY9IG7cEg1Gfv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Downloads\OSPanel\domains\nirs\img" />
+      <recent name="D:\Downloads\OSPanel\domains\nirs\backend" />
+      <recent name="D:\Downloads\OSPanel\domains\nirs\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@38bea469" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a8a5660-f290-4073-8c22-9cd79bce376d" name="Default Changelist" comment="" />
+      <created>1591614752908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591614752908</updated>
+      <workItem from="1591614754110" duration="9610000" />
+      <workItem from="1591637283330" duration="10071000" />
+      <workItem from="1591692472306" duration="14826000" />
+      <workItem from="1591716182879" duration="6498000" />
+      <workItem from="1591784045936" duration="7027000" />
+      <workItem from="1591800193114" duration="36000" />
+      <workItem from="1591865657468" duration="8978000" />
+      <workItem from="1591875508154" duration="9439000" />
+      <workItem from="1591943469454" duration="2515000" />
+      <workItem from="1591967357061" duration="2633000" />
+      <workItem from="1592029574365" duration="20000" />
+      <workItem from="1592044364469" duration="11618000" />
+      <workItem from="1592127486819" duration="4125000" />
+      <workItem from="1592136706028" duration="4927000" />
+      <workItem from="1592150465814" duration="3153000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
